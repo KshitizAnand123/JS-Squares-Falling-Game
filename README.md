@@ -3,6 +3,8 @@
 A tiny JavaScript browser game built for fun and open-source contributions.
 Now let's go!!!
 This is from dev1.
+This is from dev2.
+
 
 ## 🚀 How to Run
 Just open `index.html` in your browser.

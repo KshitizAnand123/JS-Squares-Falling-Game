@@ -1,6 +1,7 @@
 # 🎮 Click the Falling Squares
 
 A tiny JavaScript browser game built for fun and open-source contributions.
+Now let's go!!!
 
 ## 🚀 How to Run
 Just open `index.html` in your browser.

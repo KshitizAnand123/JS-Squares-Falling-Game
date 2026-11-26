@@ -2,6 +2,7 @@ const gameArea = document.getElementById("gameArea");
 const scoreDisplay = document.getElementById("score");
 
 let score = 0;
+// Starting up with functions
 
 function createSquare() {
   const square = document.createElement("div");
